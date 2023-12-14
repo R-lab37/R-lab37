@@ -25,7 +25,7 @@ Feel free to explore my [GitHub repositories](Link to your GitHub profile) for m
 
 ## 🌱 Certifications
 
-- [Certification Name](Link to Certification)
+- [Certification Name](https://drive.google.com/file/d/18drqZ1OAJen27HX0unPB8StrvGpMXF7J/view?usp=sharing)
 
 ## 📫 Contact Me
 
