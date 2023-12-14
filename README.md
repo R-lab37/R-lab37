@@ -30,7 +30,7 @@ Feel free to explore my [GitHub repositories](Link to your GitHub profile) for m
 ## 📫 Contact Me
 
 - 📧 Email: rishikarya37@.com
-- 💼 LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rishik-arya-91917322a/)
 
 ## 📈 GitHub Stats
 
