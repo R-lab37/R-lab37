@@ -4,10 +4,10 @@ I am an aspiring software developer actively seeking a junior developer role. My
 
 ## 🔧 Skills
 
-- **Languages:** Java, Dart, TypeScript, HTML, CSS,Kotlin
+- **Languages:** Java, Dart, TypeScript, Kotlin
 - **Frameworks:** Android, Flutter
 - **Web Technologies:** HTML, CSS, JavaScript
-- **Version Control:** Git
+- **Version Control:** Git,github
 
 ## 🚀 Projects
 
