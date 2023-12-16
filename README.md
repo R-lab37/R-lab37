@@ -21,8 +21,10 @@ Feel free to explore my [GitHub repositories](Link to your GitHub profile) for m
 
 ## 📚 Education
 
-- Bachelor's Degree in Computer Science | Mandsaur University, Mandsaur | GRAD 2023- CGPA 9.2 /10 
+- Bachelor's Degree in Computer Science | Mandsaur University, Mandsaur | GRAD 2023-MAY CGPA 9.2 /10 
 
+- PCM with Physical Education | Oxford Public School, Jaora | GRAD 2019- CGPA 7.4 /10
+- 
 ## 🌱 Certifications
 
 - [Certification Name](https://drive.google.com/file/d/18drqZ1OAJen27HX0unPB8StrvGpMXF7J/view?usp=sharing)
