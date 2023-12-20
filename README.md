@@ -35,7 +35,7 @@ Feel free to explore my [GitHub repositories](Link to your GitHub profile) for m
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rishik-arya-91917322a/)
 
 ## 📈 GitHub Stats
-![Rishik's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-lab37)](https://github.com/anuraghazra/github-readme-stats)
+[![Rishik's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-lab37)](https://github.com/anuraghazra/github-readme-stats)]
 
 
 ## 📝 Resume
