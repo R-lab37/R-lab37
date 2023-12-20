@@ -40,7 +40,7 @@ Feel free to explore my [GitHub repositories](Link to your GitHub profile) for m
 
 ## 📝 Resume
 
-You can find my detailed resume [here](https://docs.google.com/document/d/1jqbmkz4tns-gBRP0SgdYd2b_JQWoHN7fUFk5JmeapqA/edit).
+You can find my detailed resume [here](https://docs.google.com/document/d/1jqbmkz4tns-gBRP0SgdYd2b_JQWoHN7fUFk5JmeapqA/edit?usp=sharing).
 
 ## 🌐 Connect with Me
 
