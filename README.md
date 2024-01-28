@@ -17,7 +17,7 @@ Here are some projects that showcase my skills and passion for development:
 2. [Project 2 Name](Link to Project 2): Brief description of Project 2.
 3. [Project 3 Name](Link to Project 3): Brief description of Project 3.
 
-Feel free to explore my [GitHub repositories](Link to your GitHub profile) for more projects.
+Feel free to explore my [GitHub repositories](https://github.com/R-lab37) for more projects.
 
 ## 📚 Education
 
