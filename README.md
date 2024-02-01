@@ -6,7 +6,7 @@ I am an aspiring software developer actively seeking a junior developer role. My
 
 - **Languages:** Java, Dart, TypeScript, Kotlin
 - **Frameworks:** Android, Flutter
-- **Web Technologies:** HTML, CSS, JavaScript
+- **Web Technologies:** HTML5, CSS3, JavaScript
 - **Version Control:** Git,github
 
 ## 🚀 Projects
