@@ -27,7 +27,7 @@ Feel free to explore my [GitHub repositories](https://github.com/R-lab37) for mo
 - 
 ## 🌱 Certifications
 
-- [Certification Name](https://drive.google.com/file/d/18drqZ1OAJen27HX0unPB8StrvGpMXF7J/view?usp=sharing)
+- [Certification Pdf](https://drive.google.com/file/d/18drqZ1OAJen27HX0unPB8StrvGpMXF7J/view?usp=sharing)
 
 ## 📫 Contact Me
 
